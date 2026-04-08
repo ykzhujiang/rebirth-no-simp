@@ -1,0 +1,35 @@
+{
+  "project": "rebirth-no-simp",
+  "created_at": "2026-04-08T07:59:59.013163+00:00",
+  "github_repo": "ykzhujiang/rebirth-no-simp",
+  "config": {
+    "theme": "重生回到高三，这次我不当舔狗了",
+    "genre": "comedy",
+    "style": "realistic",
+    "duration": 15,
+    "characters": 2,
+    "setting": "2016年中国高中校园",
+    "ratio": "9:16",
+    "episode": "1",
+    "source_video": null,
+    "entry": "B"
+  },
+  "status": "not_started",
+  "steps": {
+    "step1b": {
+      "status": "not_started"
+    },
+    "step1.5": {
+      "status": "not_started"
+    },
+    "step3": {
+      "status": "not_started"
+    },
+    "step4": {
+      "status": "not_started"
+    },
+    "step6": {
+      "status": "not_started"
+    }
+  }
+}
