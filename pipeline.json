@@ -56,11 +56,7 @@
       "completed_at": "2026-04-08T10:30:40.953836+00:00"
     },
     "step6": {
-      "status": "done",
-      "started_at": "2026-04-08T10:31:09.787965+00:00",
-      "completed_at": "2026-04-08T10:31:10.793647+00:00",
-      "output": "production/output/1/final.mp4",
-      "size_mb": 4.4
+      "status": "not_started"
     }
   }
 }
