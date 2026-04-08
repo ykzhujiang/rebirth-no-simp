@@ -14,7 +14,7 @@
     "source_video": null,
     "entry": "B"
   },
-  "status": "step3_in_progress",
+  "status": "step3_done",
   "steps": {
     "step1b": {
       "status": "done",
@@ -32,9 +32,12 @@
       "storyboard_verdict": "PASS"
     },
     "step3": {
-      "status": "in_progress",
+      "status": "done",
       "started_at": "2026-04-08T08:15:13.047723+00:00",
-      "error": "Asset quality check failed"
+      "error": "Asset quality check failed",
+      "completed_at": "2026-04-08T08:20:24.605279+00:00",
+      "output": "assets/asset-map.json",
+      "asset_count": 3
     },
     "step4": {
       "status": "not_started"
