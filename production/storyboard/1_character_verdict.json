@@ -1,0 +1,48 @@
+{
+  "checked_at": "2026-04-08T08:03:17.243271+00:00",
+  "verdict": "PASS",
+  "storyboard": "1.md",
+  "setting": null,
+  "characters": {
+    "陈阳": {
+      "completeness": {
+        "pass": true,
+        "missing": []
+      },
+      "image_friendliness": {
+        "pass": true,
+        "vague_terms": []
+      },
+      "setting_consistency": {
+        "pass": true,
+        "note": "No setting specified"
+      },
+      "differentiation": {
+        "pass": true,
+        "similar_to": null
+      }
+    },
+    "林小溪": {
+      "completeness": {
+        "pass": true,
+        "missing": []
+      },
+      "image_friendliness": {
+        "pass": true,
+        "vague_terms": []
+      },
+      "setting_consistency": {
+        "pass": true,
+        "note": "No setting specified"
+      },
+      "differentiation": {
+        "pass": true,
+        "similar_to": null
+      }
+    }
+  },
+  "hard_fails": 0,
+  "soft_warnings": 0,
+  "auto_fixed": true,
+  "fix_rounds": 1
+}

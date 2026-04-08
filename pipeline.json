@@ -14,7 +14,7 @@
     "source_video": null,
     "entry": "B"
   },
-  "status": "step1b_done",
+  "status": "step1.5_done",
   "steps": {
     "step1b": {
       "status": "done",
@@ -24,7 +24,12 @@
       "segment_count": 2
     },
     "step1.5": {
-      "status": "not_started"
+      "status": "done",
+      "started_at": "2026-04-08T08:03:04.203243+00:00",
+      "completed_at": "2026-04-08T08:03:17.872236+00:00",
+      "output": "production/storyboard/1_storyboard_verdict.json",
+      "character_verdict": "PASS",
+      "storyboard_verdict": "PASS"
     },
     "step3": {
       "status": "not_started"
