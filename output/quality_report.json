@@ -6,7 +6,7 @@
     "Segment 01": {
       "task_id": "cgt-20260408180245-gcvth",
       "status": "done",
-      "video": "output/Segment_01_v3.mp4",
+      "video": "production/output/1/Segment 01.mp4",
       "check_verdict": "BEST_SELECTED",
       "attempts": 3,
       "retry_task_id": "cgt-20260408181705-qvx8q",
