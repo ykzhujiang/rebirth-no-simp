@@ -14,7 +14,7 @@
     "source_video": null,
     "entry": "B"
   },
-  "status": "done",
+  "status": "step3_done",
   "steps": {
     "step1b": {
       "status": "done",
@@ -40,7 +40,7 @@
       "asset_count": 3
     },
     "step4": {
-      "status": "done",
+      "status": "pending",
       "segments": {
         "Segment 01": {
           "task_id": "cgt-20260408180245-gcvth",
@@ -56,7 +56,7 @@
       "completed_at": "2026-04-08T10:30:40.953836+00:00"
     },
     "step6": {
-      "status": "not_started"
+      "status": "pending"
     }
   }
 }
