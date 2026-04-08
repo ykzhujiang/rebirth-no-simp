@@ -1,0 +1,47 @@
+{
+  "verdict": "FAIL",
+  "style": "realistic",
+  "assets": [
+    {
+      "label": "林宇",
+      "type": "character",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 5,
+      "quality_ok": true,
+      "issues": [],
+      "retry_suggestion": null
+    },
+    {
+      "label": "苏雪",
+      "type": "character",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 4,
+      "quality_ok": true,
+      "issues": [
+        "银色手链戴在了角色的左腕，而描述要求是右腕。",
+        "整体打光和角色表情略显阴森，虽然体现了高傲，但带有一定的惊悚/反派感，可能与常规的'理所当然'设定有微妙偏差。"
+      ],
+      "retry_suggestion": null
+    },
+    {
+      "label": "教室-晨间",
+      "type": "scene",
+      "verdict": "FAIL",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 3,
+      "quality_ok": false,
+      "issues": [
+        "黑板上的中文字符存在明显的AI生成伪影（如'离'、'还'等字形扭曲）",
+        "整体画面光线偏暗、阴影沉重，与描述要求的'明亮'色调不符，氛围略显压抑",
+        "部分课桌椅（如左下角和画面中部）结构不完整或存在融合、透视错误"
+      ],
+      "retry_suggestion": "在prompt中增加'bright lighting, well-lit, daytime, cheerful atmosphere'等提示词以提亮画面并契合'明亮青春'的氛围；对于黑板文字，建议生成无字黑板后通过后期PS添加，或使用支持中文渲染的特定模型/局部重绘功能修复。"
+    }
+  ],
+  "summary": "2/3 assets passed"
+}
